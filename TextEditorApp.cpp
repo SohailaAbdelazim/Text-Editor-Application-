@@ -1,10 +1,9 @@
-// FCAI – Programming 1 – 2022 - Assignment 4.
-// Program Name: CS112-203-2nd - S9,10 -20210090-20210492-20211109-A4- TextEditorApp.cpp
+
 // Last Modification Date: 10/05/2022
-// Author1 and ID and Group: Basmala Mohamed Sayed Gad  ID: 20210090  Group: s10 - Functions : 1 - 5
-// Author2 and ID and Group: Sohaila Abdelazim Khalifa  ID: 20210492  Group: s10 - Functions : 6 - 10
-// Author3 and ID and Group: Hadeer Abdelnasser         ID: 20211109  Group: s10 - Functions : 11 - 15
-// Teaching Assistant: Afaf Abdelmonem
+// Author1 : Basmala Mohamed Sayed Gad  
+// Author2 : Sohaila Abdelazim Khalifa  
+// Author3 : Hadeer Abdelnasser         
+
 /* Purpose: The purpose of this program is to allow the user to apply different opeartions upon the text files  .*/
 
 #include "textlib.cpp"
